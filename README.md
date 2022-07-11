@@ -1,3 +1,4 @@
-# azzorti
+## Evaluación de selección para el puesto: Prácticante
+Preprofesional de Ciencia de Datos
 
-Prueba de selección de la empresa Azzorti.
+Para ver el desarrollo ingresar a Azzorti.ipynb.
